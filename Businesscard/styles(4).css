@@ -1,0 +1,32 @@
+body{
+    margin: 50px;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.card{
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    color: rgb(255, 235, 235);
+    background-color: rgb(138, 11, 11);
+    border: 5px solid rgb(48, 13, 13);
+    border-bottom: 15px solid rgb(48, 13, 13);
+    border-radius: 10px;
+}
+
+h3:hover{
+    background-color: rgb(48, 13, 13);
+}
+
+
+.avatar{
+    width: 400px;
+    border: 5px solid rgb(48, 13, 13);
+    border-radius: 10px;
+}
+
